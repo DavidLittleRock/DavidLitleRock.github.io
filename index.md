@@ -1,4 +1,4 @@
-## Welcome to David's GitHub Page here
+## Welcome
 
 I am learning and working on some simple projects. Please make any suggestions you think I could benefit from.
 
